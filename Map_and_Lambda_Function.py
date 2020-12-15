@@ -1,6 +1,5 @@
 cube = lambda x: x ** 3  # complete the lambda function
 
-
 def fibonacci(n):
     if n == 0:
         return []
